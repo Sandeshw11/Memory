@@ -1,7 +1,12 @@
 {
   "version": 1,
   "status": "ON",
-  "admins": [],
+  "admins": [
+    {
+      "name": "Sandesh",
+      "hwid": "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9"
+    }
+  ],
   "users": [],
-  "signature": "994c9cd64e670e6321c8a7dca21c3291bb32412299efa40358b5d355abfd0c6e"
+  "signature": "3baa1cad6842610e61a04263dc58f80a0f6b81ad052047acf2e9947818501d97"
 }
